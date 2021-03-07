@@ -55,7 +55,7 @@
 英語
 - TOEIC…840
 - Speaking…日常会話が可能
-- Listening/Reading/Writing…ビジネス・学術的な内容把握と記載が可能
+- Listening/Reading/Writing…ビジネス・学術的な内容把握と記述が可能
 
 
 ## その他
